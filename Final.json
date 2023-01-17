@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "jogo": 58,
+        "rodada": "Final",
+        "diaSemana": "DOM",
+        "data": "18/12/2022",
+        "hora": "12:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "mandante": "ARG",
+        "gols_mandante": "2",
+        "partida": "ARG x FRA",
+        "gols_visitante": "2",
+        "visitante": "FRA",
+        "img_mandante": "argentina.png",
+        "img_visitante": "franca.png",
+        "prorrogacao": "3 x 3",
+        "penaltis": "Sim",
+        "placar_penaltis": "4 x 2",
+        "primeiro_lugar": "Argentina",
+        "segundo_lugar": "França",
+        "artilheiro": "Mbappe",
+        "melhor_da_copa": "Messi"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "jogo": 58,
+        "rodada": "Campeões",
+        "diaSemana": "DOM",
+        "data": "18/12/2022",
+        "hora": "12:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "campeao": "",
+        "vicecampeao": "",
+        "artilheiro": "",
+        "melhor_da_copa": "",
+        "terceiro_lugar": "",
+        "quarto_lugar": "",
+        "img_campeao": "bandeira-padrao.png",
+        "img_vicecampeao": "bandeira-padrao.png",
+        "img_terceiro_lugar": "bandeira-padrao.png",
+        "img_quarto_lugar": "bandeira-padrao.png"
+    }
+]

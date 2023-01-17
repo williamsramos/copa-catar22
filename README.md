@@ -1,2 +1,1 @@
-# copa-catar22
-Modelo 2
+# Copa-do-mundo-parte2

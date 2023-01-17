@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "jogo": 58,
+        "rodada": "Terceiro Lugar",
+        "diaSemana": "SÁB",
+        "data": "17/12/2022",
+        "hora": "12:00",
+        "estadio": "INTERNACIONAL KHALIFA",
+        "mandante": "CRO",
+        "gols_mandante": "2",
+        "partida": "CRO x MAR",
+        "gols_visitante": "1",
+        "visitante": "MAR",
+        "img_mandante": "croacia.png",
+        "img_visitante": "marrocos.png",
+        "prorrogacao": "Não",
+        "penaltis": "Não",
+        "placar_penaltis": "-",
+        "terceiro_lugar": "Cróacia",
+        "quarto_lugar": "Marrocos"
+    }
+]
