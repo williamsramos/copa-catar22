@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "jogo": 58,
+        "rodada": "Semifinal 1",
+        "diaSemana": "TER",
+        "data": "13/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "mandante": "Argentina",
+        "gols_mandante": "3",
+        "partida": "ARG  x  CRO",
+        "gols_visitante": "0",
+        "visitante": "Croácia",
+        "img_mandante": "argentina.png",
+        "img_visitante": "croacia.png",
+        "prorrogacao": "Não",
+        "penaltis": "Não",
+        "placar_penaltis": "",
+        "classificado": "Argentina"
+    },
+    {
+        "id": 2,
+        "jogo": 57,
+        "rodada": "Semifinal 2",
+        "diaSemana": "QUA",
+        "data": "14/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "mandante": "França",
+        "gols_mandante": "2",
+        "partida": "FRA  x MAR",
+        "gols_visitante": "0",
+        "visitante": "Marrocos",
+        "img_mandante": "franca.png",
+        "img_visitante": "marrocos.png",
+        "prorrogacao": "Não",
+        "penaltis": "Não",
+        "placar_penaltis": "",
+        "classificado": "França"
+    }
+]
